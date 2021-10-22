@@ -3,6 +3,7 @@
     "name": "app-react",
     "slug": "app-react",
     "version": "1.0.0",
+    "scheme": "app-react",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
